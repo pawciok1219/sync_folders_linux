@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/projekt_so.dir/main.c.o CMakeFiles/projekt_so.dir/function.c.o -o projekt_so 
